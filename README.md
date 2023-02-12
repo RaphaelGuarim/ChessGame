@@ -24,4 +24,4 @@ Language :      **Java**
 
 <br /> 
 
-<img height="250" src="https://github.com/RaphaelGuarim/ChessGame/blob/main/Illustrations/doc1.png" alt="Illustration" /> <img height="250" align="right" src="https://github.com/RaphaelGuarim/ChessGame/blob/main/Illustrations/doc2.png" alt="Illustration" style="display:none;"/>
+<img height="250" align="left" src="https://github.com/RaphaelGuarim/ChessGame/blob/main/Illustrations/doc1.png" alt="Illustration" /> <img height="250" align="center" src="https://github.com/RaphaelGuarim/ChessGame/blob/main/Illustrations/doc2.png" alt="Illustration" style="display:none;"/>
